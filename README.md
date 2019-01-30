@@ -17,6 +17,7 @@ IBAction is an user interacted button or user interacted atrubute
 IB0utlet is for labels
 
 What is the name of the function that gets called automaticaly in your view controller classes?
+
 veiwedloader
 
 what is the assistant editor and what does it do?
