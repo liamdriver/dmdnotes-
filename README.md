@@ -30,3 +30,4 @@ Where is the icon for the project navigator and where is it located?
 It is your main project folder left side panel
 
 Errors and outputs are visable in the debug area
+
