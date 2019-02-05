@@ -3,9 +3,10 @@ core location
 What are the two numbers that determine location
 longatude latitude
 There are two keys you need to add to the info.plist in order to use gps of a device, what are they?
-
+privacy location - always and when in use 
+privacy location - when in use
 Can you explain the role of the CLLocationManager delegate that we looked at?
-
+it can share infomation between the different classes 
 How can you simulate location on the simulator?
 clicking the location button on the debug panel
 How do you create a custom simulator for testing?
