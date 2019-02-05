@@ -1,0 +1,14 @@
+What is the location framework called in iOS
+core location 
+What are the two numbers that determine location
+longatude latitude
+There are two keys you need to add to the info.plist in order to use gps of a device, what are they?
+
+Can you explain the role of the CLLocationManager delegate that we looked at?
+
+How can you simulate location on the simulator?
+clicking the location button on the debug panel
+How do you create a custom simulator for testing?
+create a custom gpx file
+How can you automatically tell the simulator to use this when you run your app?
+scheme
