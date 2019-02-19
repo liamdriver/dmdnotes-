@@ -1,0 +1,23 @@
+Creating a simple project:
+Create a class
+Set up two variables of different types
+Create a function
+How do you create a class - key word/casing/brackets?
+class (name) : (type) {
+}
+What is the difference between a variable and a constant?
+variable can change value where a constant cannot
+var = variable
+let = constant
+What must you do after creating a variable?
+iniatise it with init()
+What does the word 'string' mean?
+string is characters 
+What key work (abreviation) is used to create a function?
+func
+What symbol means 'is of type'?
+:
+What does 'Int' mean?
+interger
+How do you print out a variable or function in the debug area?
+Print(var name or func name)
