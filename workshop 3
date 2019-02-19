@@ -12,4 +12,4 @@ clicking the location button on the debug panel
 How do you create a custom simulator for testing?
 create a custom gpx file
 How can you automatically tell the simulator to use this when you run your app?
-scheme
+click name of the app the in run -> options -> defult location
