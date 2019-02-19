@@ -6,10 +6,13 @@ Display mapView
 Add an annotation
 
 How do you display a users location on the map
+using a mapkit on the storyboard file
 
 How do you create a new Custom Annotation file?
+file new file (or cmd N) new swift file
 
 What 2 types is a Custom Annotation?
+nsobject and Mkannotation
 
 What does CL stand for in CLLocationCoordinate2D?
-
+core location
