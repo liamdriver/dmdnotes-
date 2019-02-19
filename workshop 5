@@ -1,19 +1,21 @@
 Segues
 
 What is a segue
-
+movement from on veiw controler to another.
 What is a segue identifier?
-
+what the segue called in the program
 How do you create segue from a button?
-
+click and clr drag the button between viewcontrollers 
 How do you create from a view controller without a button?
-
+click the first veiw controller then clr drag over to the next one
 What is the method to perfrom a segue called and what argument does it take?
-
+perform segue
 What method is called immediatly before a segue is performed?
-
+perpare for segue
 How do you assign a new view controller class?
-
+class idenifier in the left tab on the storyborad file
 How do you pass data between two view controllers? (this will need a few sentances to explain)
-
+you use the prepare to segue func and then place the data you want ot pass through within the {}
 You dont link a segue "backwards", why?
+becuase it will just layer the views up and will eventually crash the phone.
+should use dismiss() or the navigation bar.
